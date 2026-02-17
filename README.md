@@ -39,21 +39,4 @@ The main goal was to:
 - Clean and modern blog layout
 - Multi-page structure (Home, About, Posts)
 
----
 
-## 📂 Project Structure
-
-```text
-ThoughtMedia/
-│
-├── index.html
-├── about.html
-├── post.html
-├── post2.html
-├── style.css
-├── script.js
-├── images/
-│   ├── img3.png
-│   ├── post2-img7.jpg
-│
-└── README.md
